@@ -1,0 +1,22 @@
+nickname,url
+yubo,https://play.google.com/store/apps/details?id=co.yellw.yellowapp
+wink,https://play.google.com/store/apps/details?id=co.ninecount.wink
+SFriends,https://play.google.com/store/apps/details?id=com.addsnapchatfriends.sfriends
+f3,https://play.google.com/store/apps/details?id=cool.f3
+seekingdaddy,https://play.google.com/store/apps/details?id=com.sugardaddydating.sugary&hl=en_US&gl=US
+teenagechat,https://play.google.com/store/apps/details?id=com.wTeenageChatNetworkApp_10163664
+cocoTchat,https://play.google.com/store/apps/details?id=com.adoleserieux.adoleserieuxcom
+teenchatrooms,https://play.google.com/store/apps/details?id=com.teen.chat.rooms
+kidschatrooms,https://play.google.com/store/apps/details?id=com.kids.chat.rooms
+findmeafreak,https://play.google.com/store/apps/details?id=com.findmeafreak.com.app
+freekidschatrooms,https://play.google.com/store/apps/details?id=kids.chat.rooms
+agematch,https://play.google.com/store/apps/details?id=com.agegapdating.agematch
+dateme,https://play.google.com/store/apps/details?id=com.dateme.android
+sayhichat,https://play.google.com/store/apps/details?id=com.unearby.sayhi
+freedatingapp,https://play.google.com/store/apps/details?id=dating.app.chat.flirt.wgbcv
+meetly,https://play.google.com/store/apps/details?id=com.improverllc.meetly
+datemyage,https://play.google.com/store/apps/details?id=com.datemyage
+loveme,https://play.google.com/store/apps/details?id=com.bestadultchat.meetawesomegirls
+joyride,https://play.google.com/store/apps/details?id=com.jaumo.casual
+hoop,https://play.google.com/store/apps/details?id=com.dazz.hoop&hl=en_US
+plenty of fish,https://play.google.com/store/apps/details?id=com.pof.android&hl=en_US&gl=US
